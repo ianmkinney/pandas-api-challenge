@@ -1,0 +1,172 @@
+,index,City,Country,Lat,Lng,Hotel Name
+0,2,Atuona,PF,-9.8,-139.0333,No Hotel
+1,11,Bafoulabé,ML,13.8065,-10.8321,No Hotel
+2,12,Saint-Philippe,RE,-21.3585,55.7679,No Hotel
+3,17,Butaritari,KI,3.0707,172.7902,No Hotel
+4,18,Vila Velha,BR,-20.3297,-40.2925,No Hotel
+5,19,Novo Aripuanã,BR,-5.1206,-60.3797,No Hotel
+6,20,Alofi,NU,-19.0595,-169.9187,No Hotel
+7,21,Hilo,US,19.7297,-155.09,No Hotel
+8,22,Arraial do Cabo,BR,-22.9661,-42.0278,No Hotel
+9,23,Puerto Ayora,EC,-0.7393,-90.3518,No Hotel
+10,24,Manta,EC,-0.95,-80.7333,No Hotel
+11,30,Geraldton,AU,-28.7667,114.6,No Hotel
+12,48,Pitimbu,BR,-7.4706,-34.8086,No Hotel
+13,60,Barra Patuca,HN,15.8,-84.2833,No Hotel
+14,72,Cidreira,BR,-30.1811,-50.2056,No Hotel
+15,77,Carnarvon,AU,-24.8667,113.6333,No Hotel
+16,78,Bosaso,SO,11.2842,49.1816,No Hotel
+17,80,Avarua,CK,-21.2078,-159.775,No Hotel
+18,82,Christchurch,NZ,-43.5333,172.6333,No Hotel
+19,83,Tual,ID,-5.6667,132.75,No Hotel
+20,84,Rikitea,PF,-23.1203,-134.9692,No Hotel
+21,86,Iracoubo,GF,5.4802,-53.2011,No Hotel
+22,89,Maumere,ID,-8.6199,122.2111,No Hotel
+23,91,Vaini,TO,-21.2,-175.2,No Hotel
+24,94,Talara,PE,-4.5772,-81.2719,No Hotel
+25,96,Harper,LR,4.375,-7.7169,No Hotel
+26,97,Mossamedes,AO,-15.1961,12.1522,No Hotel
+27,99,Pisco,PE,-13.7,-76.2167,No Hotel
+28,101,Juba,SS,4.8517,31.5825,No Hotel
+29,103,Boa Vista,BR,2.8197,-60.6733,No Hotel
+30,107,Demak,ID,-6.8909,110.6396,No Hotel
+31,108,Morant Bay,JM,17.8815,-76.4093,No Hotel
+32,113,Esim,GH,4.8699,-2.2405,No Hotel
+33,114,Chimbote,PE,-9.0853,-78.5783,No Hotel
+34,118,Port Blair,IN,11.6667,92.75,No Hotel
+35,119,Ipixuna,BR,-1.7625,-48.8043,No Hotel
+36,120,Kon Tum,VN,14.35,108.0,No Hotel
+37,126,Lorengau,PG,-2.0226,147.2712,No Hotel
+38,135,George Town,MY,5.4112,100.3354,No Hotel
+39,139,Inongo,CD,-1.95,18.2667,No Hotel
+40,142,Carutapera,BR,-1.195,-46.02,No Hotel
+41,144,Kahului,US,20.8947,-156.47,No Hotel
+42,145,Rodrigues Alves,BR,-7.738,-72.6509,No Hotel
+43,152,Mahajanga,MG,-15.7167,46.3167,No Hotel
+44,153,Saint-Joseph,RE,-21.3667,55.6167,No Hotel
+45,155,Port Macquarie,AU,-31.4333,152.9167,No Hotel
+46,156,Kapaa,US,22.0752,-159.319,No Hotel
+47,160,Bua Yai,TH,15.5855,102.4259,No Hotel
+48,164,Ambanja,MG,-13.6833,48.45,No Hotel
+49,165,Alta Floresta,BR,-9.8756,-56.0861,No Hotel
+50,168,Faanui,PF,-16.4833,-151.75,No Hotel
+51,169,Vaitape,PF,-16.5167,-151.75,No Hotel
+52,171,Puerto Escondido,MX,15.85,-97.0667,No Hotel
+53,175,Hithadhoo,MV,-0.6,73.0833,No Hotel
+54,176,Bathsheba,BB,13.2167,-59.5167,No Hotel
+55,177,Bubaque,GW,11.2833,-15.8333,No Hotel
+56,182,Dibulla,CO,11.2725,-73.3091,No Hotel
+57,184,Caravelas,BR,-17.7125,-39.2481,No Hotel
+58,189,Sechura,PE,-5.5569,-80.8222,No Hotel
+59,192,Caibarién,CU,22.5206,-79.4669,No Hotel
+60,193,Hambantota,LK,6.1241,81.1185,No Hotel
+61,194,Codrington,AU,-38.2667,141.9667,No Hotel
+62,212,Esperance,AU,-33.8667,121.9,No Hotel
+63,214,San Carlos,VE,9.6612,-68.5827,No Hotel
+64,216,Ternate,ID,0.8,127.4,No Hotel
+65,217,Owando,CG,-0.4819,15.8999,No Hotel
+66,222,Mahébourg,MU,-20.4081,57.7,No Hotel
+67,223,Mbandaka,CD,0.0487,18.2603,No Hotel
+68,224,Byron Bay,AU,-28.65,153.6167,No Hotel
+69,225,Mocuba,MZ,-16.8392,36.9856,No Hotel
+70,231,Panabá,MX,21.2833,-88.2667,No Hotel
+71,232,Paka,MY,4.6374,103.4368,No Hotel
+72,236,Marakkanam,IN,12.2,79.95,No Hotel
+73,237,Yenagoa,NG,4.9247,6.2642,No Hotel
+74,238,Dingle,PH,10.9995,122.6711,No Hotel
+75,240,Araci,BR,-11.3333,-38.9667,No Hotel
+76,243,Qui Nhon,VN,13.7667,109.2333,No Hotel
+77,246,Santa Maria,BR,-29.6842,-53.8069,No Hotel
+78,249,Presidencia Roque Sáenz Peña,AR,-26.7852,-60.4388,No Hotel
+79,250,Santo Domingo,DO,18.5001,-69.9886,No Hotel
+80,251,Morros,BR,-9.4467,-46.3003,No Hotel
+81,253,Soyo,AO,-6.1349,12.3689,No Hotel
+82,254,Weligama,LK,5.9667,80.4167,No Hotel
+83,257,Mackay,AU,-21.15,149.2,No Hotel
+84,261,Mabaruma,GY,8.2,-59.7833,No Hotel
+85,262,Bambous Virieux,MU,-20.3428,57.7575,No Hotel
+86,264,Yārāda,IN,17.65,83.2667,No Hotel
+87,267,Karwar,IN,14.8,74.1333,No Hotel
+88,273,Kerema,PG,-7.9631,145.7785,No Hotel
+89,274,São João da Barra,BR,-21.6403,-41.0511,No Hotel
+90,279,Touros,BR,-5.1989,-35.4608,No Hotel
+91,280,Bata,GQ,1.8639,9.7658,No Hotel
+92,282,Mount Gambier,AU,-37.8333,140.7667,No Hotel
+93,283,Piaçabuçu,BR,-10.4056,-36.4344,No Hotel
+94,284,Vao,NC,-22.6667,167.4833,No Hotel
+95,290,San Isidro,PE,-12.1167,-77.05,No Hotel
+96,291,Lima,PE,-12.0432,-77.0282,No Hotel
+97,295,Muisne,EC,0.6,-80.0333,No Hotel
+98,298,Diamantino,BR,-14.4086,-56.4461,No Hotel
+99,300,Mirador,BR,-6.3708,-44.3631,No Hotel
+100,304,Kaeo,NZ,-35.1,173.7833,No Hotel
+101,305,Guane,CU,22.2025,-84.0875,No Hotel
+102,313,Souillac,MU,-20.5167,57.5167,No Hotel
+103,319,Jacareacanga,BR,-6.2222,-57.7528,No Hotel
+104,330,Tura,IN,25.5198,90.2201,No Hotel
+105,331,Tautira,PF,-17.7333,-149.15,No Hotel
+106,333,Port Lincoln,AU,-34.7333,135.8667,No Hotel
+107,343,Quilmaná,PE,-12.95,-76.3833,No Hotel
+108,349,Itacaré,BR,-14.2775,-38.9967,No Hotel
+109,350,San Miguel,SV,13.4833,-88.1833,No Hotel
+110,351,Inhambane,MZ,-23.865,35.3833,No Hotel
+111,355,Huarmey,PE,-10.0681,-78.1522,No Hotel
+112,357,Quatre Cocos,MU,-20.2078,57.7625,No Hotel
+113,361,Anori,BR,-3.7728,-61.6442,No Hotel
+114,364,Cayenne,GF,4.9333,-52.3333,No Hotel
+115,366,Bandarbeyla,SO,9.4942,50.8122,No Hotel
+116,371,Cobija,BO,-11.0267,-68.7692,No Hotel
+117,374,Le Port,RE,-20.9373,55.2919,No Hotel
+118,378,Waipawa,NZ,-41.4122,175.5153,No Hotel
+119,379,Antalaha,MG,-14.9003,50.2788,No Hotel
+120,381,Uarini,BR,-2.99,-65.1083,No Hotel
+121,385,Cabral,DO,18.25,-71.2167,No Hotel
+122,386,Yaan,NG,7.3833,8.5667,No Hotel
+123,387,Meulaboh,ID,4.1363,96.1285,No Hotel
+124,389,Maputo,MZ,-25.9653,32.5892,No Hotel
+125,393,Kulhudhuffushi,MV,6.6221,73.07,No Hotel
+126,400,Fare,PF,-16.7,-151.0167,No Hotel
+127,403,Laje,BR,-10.1833,-40.9667,No Hotel
+128,407,Salalah,OM,17.0151,54.0924,No Hotel
+129,408,Moroni,KM,-11.7022,43.2551,No Hotel
+130,409,Tefé,BR,-3.3542,-64.7114,No Hotel
+131,410,Mananjary,MG,-21.2167,48.3333,No Hotel
+132,411,Batemans Bay,AU,-35.7167,150.1833,No Hotel
+133,413,Vung Tau,VN,10.346,107.0843,No Hotel
+134,414,Santo Amaro das Brotas,BR,-10.7889,-37.0544,No Hotel
+135,415,São José da Coroa Grande,BR,-8.8978,-35.1478,No Hotel
+136,418,Petatlán,MX,17.5167,-101.2667,No Hotel
+137,423,La Asuncion,VE,11.0333,-63.8628,No Hotel
+138,429,Ouallam,NE,14.3188,2.0866,No Hotel
+139,435,Namatanai,PG,-3.6667,152.4333,No Hotel
+140,436,Wanning,CN,18.8003,110.3967,No Hotel
+141,439,Cabedelo,BR,-6.9811,-34.8339,No Hotel
+142,444,Maragogi,BR,-9.0122,-35.2225,No Hotel
+143,452,Saint-Pierre,RE,-21.3393,55.4781,No Hotel
+144,455,Puerto Quijarro,BO,-17.7833,-57.7667,No Hotel
+145,456,Hervey Bay,AU,-25.2986,152.8535,No Hotel
+146,461,‘Āhuimanu,US,21.4447,-157.8378,No Hotel
+147,463,Tiarei,PF,-17.5333,-149.3333,No Hotel
+148,466,Juradó,CO,7.1053,-77.7641,No Hotel
+149,472,Acajutla,SV,13.5928,-89.8275,No Hotel
+150,478,Nelson Bay,AU,-32.7167,152.15,No Hotel
+151,479,Hualmay,PE,-11.0964,-77.6139,No Hotel
+152,480,Timaru,NZ,-44.4,171.25,No Hotel
+153,483,Guarapari,BR,-20.6667,-40.4975,No Hotel
+154,484,Eyl,SO,7.9803,49.8164,No Hotel
+155,496,Tamale,GH,9.4008,-0.8393,No Hotel
+156,509,Upata,VE,8.0086,-62.3989,No Hotel
+157,510,Kampong Cham,KH,11.9934,105.4635,No Hotel
+158,511,Coari,BR,-4.085,-63.1414,No Hotel
+159,512,Rameswaram,IN,9.2833,79.3,No Hotel
+160,526,Richards Bay,ZA,-28.783,32.0377,No Hotel
+161,527,Tougan,BF,13.0667,-3.0667,No Hotel
+162,531,Matara,LK,5.9485,80.5353,No Hotel
+163,532,Trincomalee,LK,8.5711,81.2335,No Hotel
+164,533,Kununurra,AU,-15.7667,128.7333,No Hotel
+165,535,Itarema,BR,-2.9248,-39.9167,No Hotel
+166,537,Cockburn Town,TC,21.4612,-71.1419,No Hotel
+167,544,Rio Grande City,US,26.3798,-98.8203,No Hotel
+168,553,Boyolangu,ID,-8.1181,111.8935,No Hotel
+169,557,Matanzas,CU,23.0411,-81.5775,No Hotel
+170,564,Pauini,BR,-7.7136,-66.9764,No Hotel
